@@ -31,9 +31,9 @@
 
 ## Usage
 
-* Grant Ticker Bar access internet.
+* Grant Ticker Bar access to internet.
 * Click Ticker Bar menu icon to show all ticker prices.
-* Ticker would dynaminally update ticker prices.
+* Ticker Bar would dynaminally update ticker prices.
 
 <p align="center">
 	<img width="400" src="img/demo.gif">
