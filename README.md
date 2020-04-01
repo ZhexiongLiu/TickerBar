@@ -36,7 +36,7 @@
 * Ticker would dynaminally update ticker prices.
 
 <p align="center">
-	<img width="330" src="img/demo.gif">
+	<img width="400" src="img/demo.gif">
 </p>
 
 ## Related App
