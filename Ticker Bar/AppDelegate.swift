@@ -92,6 +92,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
                         keyEquivalent: "")
             }
         }
+        
+
 
         statusBarMenu.addItem(NSMenuItem.separator())
 
@@ -99,6 +101,11 @@ class AppDelegate: NSObject, NSApplicationDelegate {
                 withTitle: "Quit",
                 action: #selector(AppDelegate.QuitAPP),
                 keyEquivalent: "q")
+
+        statusBarMenu.addItem(
+                withTitle: "Preference",
+                action: #selector(AppDelegate.DoNothingAPP),
+                keyEquivalent: ",")
 
 //        print(titleList)
 
@@ -196,3 +203,5 @@ extension String {
         return self.removingPercentEncoding ?? ""
     }
 }
+
+
