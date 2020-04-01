@@ -1,5 +1,5 @@
 # TickerBar
-A MacOS Menubar Showing Ticker Prices
+* A MacOS Menubar Showing Ticker Prices
 
 <p align="center">
 	<img width="200" height="200" margin-right="100%" src="https://github.com/ZhexiongLiu/TickerBar/blob/master/Ticker%20Bar/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true">
@@ -16,11 +16,11 @@ A MacOS Menubar Showing Ticker Prices
 </p>
 
 ## Ticker Bar
-Ticker Bar dynamically shows ticker prices in menu bar.
+* Ticker Bar dynamically shows ticker prices in menu bar.
 
 <p align="center">
-	<img width="430" src="img/screen1.png">
-	<img width="430" src="img/screen2.png">
+	<img width="420" src="img/screen1.png">
+	<img width="420" src="img/screen2.png">
 </p>
 
 
@@ -29,9 +29,19 @@ Ticker Bar dynamically shows ticker prices in menu bar.
 * [Download latest version](https://github.com/ZhexiongLiu/TickerBar/releases/latest)
 * Open and drag the app to the Applications folder.
 
+## Usage
+
+* Grant Ticker Bar access internet.
+* Click Ticker Bar menu icon to show all ticker prices.
+* Ticker would dynaminally update ticker prices.
+
+<p align="center">
+	<img width="330" src="img/demo.gif">
+</p>
+
 ## Related App
 * [To-do Bar](https://github.com/ZhexiongLiu/TodoBar)
 
 ## License
 
-MIT &copy; [Zhexiong Liu](https://github.com/ZhexiongLiu)
+* MIT &copy; [Zhexiong Liu](https://github.com/ZhexiongLiu)
