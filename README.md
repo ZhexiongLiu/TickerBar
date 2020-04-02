@@ -19,7 +19,7 @@
 * Ticker Bar dynamically shows ticker prices in menu bar.
 
 <p align="center">
-	<img width="413" src="img/screen1.png">
+	<img width="420" src="img/screen1.png">
 	<img width="420" src="img/screen2.png">
 </p>
 
